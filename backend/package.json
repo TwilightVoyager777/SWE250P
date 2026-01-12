@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server_time.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Pengcheng Xu",
+  "license": "ISC",
+  "description": "Initing a project",
+  "dependencies": {
+    "express": "^5.2.1",
+    "request": "^2.88.2"
+  }
+
+}
