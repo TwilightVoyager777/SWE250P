@@ -1,0 +1,14 @@
+# MailBag Server Dependencies (Chapter 8)
+
+express
+nodemailer
+emailjs-imap-client
+mailparser
+nedb
+
+# TypeScript / Dev tooling
+
+typescript
+ts-node
+@types/node
+@types/express
