@@ -71,6 +71,7 @@ The following environment was used to develop and test the web server code for t
 1. 2 main source code file: test.jsx, index.html
 2. run npx babel main.jsx --out-file main.js
 3. go to index.html and open
+加一个requirements.txt！！！！
 
 ### Practice M4
 1. cd M3
@@ -78,6 +79,7 @@ The following environment was used to develop and test the web server code for t
 3. load up index.html and see alert
 4. run tsc -init to Create a new tsconfig.json
 5. load up index.html and see alert
+加一个requirements.txt！！！！
 
 ### Practice M5
 
